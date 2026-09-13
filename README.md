@@ -222,8 +222,13 @@ IoT Digital Credential
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Piyush18aug&theme=tokyonight&hide_border=true"> </div>
-🐍 CONTRIBUTION GRAPH
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </div>
+<h2>🐍 CONTRIBUTION JOURNEY</h2>
+
+<div align="center">
+<img src="https://ghchart.xqsit94.in/dark:default/Samarth007-star" width="100%" alt="GitHub Contribution Graph"/>
+<br>
+<sub>Every contribution is a step forward.</sub>
+</div>
 🔥 DEVELOPER MINDSET
 <div align="center"> <table> <tr> <td align="center">💡<br><b>Curiosity</b><br>Ask better questions</td> <td align="center">🧠<br><b>Problem Solving</b><br>Break complexity</td> <td align="center">💻<br><b>Building</b><br>Learn by doing</td> <td align="center">🔁<br><b>Consistency</b><br>Improve every day</td> </tr> </table> <br>
 "Learn → Build → Break → Fix → Improve → Repeat."
